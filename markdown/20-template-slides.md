@@ -10,8 +10,8 @@
     <div class="qr-embedded-wrapper">
         <div class="qrcode" id="qrcode-talk-embedded" />
     </div>
-    <h2><a href="https://richiejp.com" target="_blank"
-           id="talk-embedded">https://richiejp.com/</a></h2>
+    <h2><a href="https://richiejp.github.io/fuzzy-sync-pres-2021/" target="_blank"
+           id="talk-embedded">https://richiejp.github.io/fuzzy-sync-pres-2021/</a></h2>
 </div>
 
 
