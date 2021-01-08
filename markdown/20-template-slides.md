@@ -4,7 +4,7 @@
     <h2>From userland with<br>LTP Fuzzy Sync</h2>
 </div>
 
-<div class="date-location">FOSDEM and SUSE Engineering summit 2020</div>
+<div class="date-location">FOSDEM and SUSE Engineering summit 2021</div>
 
 <div class="image">
     <div class="qr-embedded-wrapper">
