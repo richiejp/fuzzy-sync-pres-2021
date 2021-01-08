@@ -137,7 +137,7 @@ while (fzsync_run_b(&pair)) {
 ![Diagram](images/race-time-diagrams.svg)
 
 
-<!-- .slide: data-state="normal" id="simple-race-3" data-timing="20s" data-menu-title="A simple diagram" -->
+<!-- .slide: data-state="normal" id="simple-race-3" data-timing="20s" data-menu-title="Simple plots" -->
 <div class="breadcrumbs">SIMPLE RACE</div>
 
 ## Timing Plots
