@@ -35,7 +35,7 @@ Informally and according to me.
 
 * Only static, purely functional code has no data races.
 
-## However...
+### However...
 
 Usually if someone talks about a "data race" or "race condition" they
 are talking about a bug caused by a data race.
@@ -62,7 +62,7 @@ A gross and degenerate simplification.
 
 * Block B blows up when it dereferences a dodgy pointer.
 
-## However...
+### However...
 
 * It is usually more complicated than that.
 * A whole bunch of conditions have to be met for the value A writes to
@@ -551,5 +551,3 @@ if (TST_RET == -1 && TST_ERR == EBADF) {
 * Can be easily copied into another project
 * Contains example test using CMake/CTest
 * [LTP version](https://github.com/linux-test-project/ltp/blob/master/include/tst_fuzzy_sync.h) is still under development, but is fairly stable now
-
-
