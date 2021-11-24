@@ -20,7 +20,7 @@
 
 <div class="breadcrumbs">Data race</div>
 
-Informally and according to me.
+Informally and according to Richard Palethorpe.
 
 * It is also called a race condition.
 
